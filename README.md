@@ -1,11 +1,10 @@
 # alia-dinner-api
 This is API code for dinner recipes
 
+![giphyFlavortown](https://user-images.githubusercontent.com/98843063/192402090-b14a03f6-1401-42a8-b4f9-b86f2fe9285e.gif)
+
 Here is a link to an app that uses the API code to be able to make dinner requests: [https://takemetoflavortown.netlify.app/)]
 
-
-
-https://user-images.githubusercontent.com/98843063/177003880-53a9cba1-21a8-474d-8962-c80c52382f0f.mov
 
 
 
